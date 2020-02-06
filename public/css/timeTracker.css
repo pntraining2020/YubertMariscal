@@ -1,0 +1,13 @@
+@import 'https://fonts.googleapis.com/css?family=Nova+Mono|Eczar';
+
+#time {
+  font-family: 'Nova Mono', monospace;
+  font-size: 2vw;
+  text-align: center;
+}
+
+.container {
+  padding-top:2%;
+  padding-bottom: 2%;
+}
+

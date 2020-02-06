@@ -12,5 +12,8 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('timeTracker');
 });
+
+Route::get('/','nameController@name')->name('show');
+// dd(env('DB_PASSWORD'));
