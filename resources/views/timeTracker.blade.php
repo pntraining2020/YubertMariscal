@@ -56,6 +56,7 @@
                 <button id="clockIn" type="button" class="btn btn-primary btn-lg">Clock In</button>
                 <p id="time"></p>
                 <button id="clockOut" type="button" class="btn btn-danger btn-lg ">Clock Out</button>
+                <p id="time"></p>
             </div>
             <div class="col-3">
                 <button type="button" class="btn btn-success btn-lg">START</button>
